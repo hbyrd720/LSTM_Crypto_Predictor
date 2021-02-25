@@ -1,5 +1,5 @@
-# Homework #14
-## LSTM Stock Predictor
+# LSTM Cryptocurrency Predictor
+
 ### Heather Byrd, 02/09/2021
 
 Required Inputs: btc_sentiment.csv and btc_historic.csv
